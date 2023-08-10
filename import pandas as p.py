@@ -24,4 +24,4 @@ m.xticks([0,1],['0-automatic','1-manual'])
 m.ylabel("number of count")
 m.title("frequency distribution")
 m.show()
-h
+hi
